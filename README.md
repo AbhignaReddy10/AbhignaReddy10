@@ -1,3 +1,4 @@
+-# 👋 Hey there! I'm Abhigna Reddy 
 - 👋 Het there, I'm Abhigna Reddy, a Btech student in Computer Science Major
 - 👀 I’m interested in programming, artificial intelligence and software development.
 - 🌱 I’m currently learning the tech stack required to becomme an full fledged software developer
@@ -8,7 +9,7 @@
 - 📚 Preparing for **placements and competitive programming**
 - ✨ Also interested in **content creation** & **freelancing**
 **Languages:**  
-`Java` | `Python` | `C` | `HTML` | `CSS` | `JavaScript`
+`Java` | `Python` |  `HTML` | `CSS` | `JavaScript`
 
 **Frameworks & Tools:**  
  | `VS Code` | `Git & GitHub` | `Figma` | `Canva` | `IntelliJ IDEA`
