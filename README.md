@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @AbhignaReddy10
-- 👀 I’m interested in programming and artificial intelligence  ...
-- 🌱 I’m currently learning programming languages and related courses ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Het there, I'm Abhigna Reddy, a Btech student in Computer Science Major
+- 👀 I’m interested in programming, artificial intelligence and software development.
+- 🌱 I’m currently learning the tech stack required to becomme an full fledged software developer
+## 🌟 About Me
+- 🔭 Currently learning **Data Structures & Algorithms in Java** and **web development**
+- 💡 Exploring **Front-End Development** and **AI/ML**
+- 💬 Love being creative and solving real-world problems through tech.
+- 📚 Preparing for **placements and competitive programming**
+- ✨ Also interested in **content creation** & **freelancing**
+**Languages:**  
+`Java` | `Python` | `C` | `HTML` | `CSS` | `JavaScript`
+
+**Frameworks & Tools:**  
+ | `VS Code` | `Git & GitHub` | `Figma` | `Canva` | `IntelliJ IDEA`
+
+**Currently Learning:**  
+`DSA in Java` | `Frontend Development` 
 
 <!---
 AbhignaReddy10/AbhignaReddy10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
