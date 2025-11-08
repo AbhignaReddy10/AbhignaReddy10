@@ -1,5 +1,5 @@
 -# 👋 Hey there! I'm Abhigna Reddy 
-- 👋 Het there, I'm Abhigna Reddy, a Btech student in Computer Science Major
+- A btech second year student in Computer Science
 - 👀 I’m interested in programming, artificial intelligence and software development.
 - 🌱 I’m currently learning the tech stack required to becomme an full fledged software developer
 ## 🌟 About Me
