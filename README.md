@@ -9,7 +9,7 @@
 - 📚 Preparing for **placements and competitive programming**
 - ✨ Also interested in **content creation** & **freelancing**
 **Languages:**  
-`Java` | `Python` |  `HTML` | `CSS` | `JavaScript`
+`Java` | `Python` |  `HTML` | `CSS` | `SQL`
 
 **Frameworks & Tools:**  
  | `VS Code` | `Git & GitHub` | `Figma` | `Canva` | `IntelliJ IDEA`
