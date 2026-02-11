@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Abhigna Reddy 
 -  A btech second year student in Computer Science
 - 👀 I’m interested in programming, artificial intelligence and software development.
-- 🌱 I’m currently learning the tech stack required to becomme an full fledged software developer
+- 🌱 I’m currently learning the tech stack required to become an full fledged software developer
 ## 🌟 About Me
 - 🔭 Currently learning **Data Structures & Algorithms in Java** and **web development**
 - 💡 Exploring **Front-End Development** and **AI/ML**
