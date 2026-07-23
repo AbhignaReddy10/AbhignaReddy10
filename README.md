@@ -15,7 +15,7 @@
  | `VS Code` | `Git & GitHub` | `Figma` | `Canva` | `IntelliJ IDEA`
 
 **Currently Learning:**  
-`DSA in Java` | `Frontend Development` 
+`DSA in Java` | `Software Development` 
 
 <!---
 AbhignaReddy10/AbhignaReddy10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
